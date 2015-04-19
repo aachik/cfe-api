@@ -1,0 +1,24 @@
+
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0FMﾠ','Acevedo Ortega Omar Enriqueﾠ','Jefe de oficina','Protecciones','omar.acevedo@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('J162R','Alvarado Garca Miguel','Jefe de oficina','Control de Gestin e informtica','miguel.alvarado03@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('J030R','Carren Garca Aaron','Jefe de oficina','Juridico','aaron.carreon@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0JK','Davila Montoya Carlos','Jefe de departamento','Lneas','carlos.davila@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0M7','Gallegos Castro Jaime Encarnacin','Jefe de departamento','Protecciones','jaime.gallegos@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('J090R','Gonzalez Rosales Guillermo','Jefe de oficina','Administracin','guillermo.gonzalez12@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0JMﾠ','Hidalgo  Rey Oscar Marioﾠ','Jefe de oficina','Protecciones','oscar.hidalgo@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0TB','Lavin Aranda Carlosﾠ','Jefe de oficina','Comunicaciones','carlos.lavin01@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0PW','Limones Rivas Jos Ivn','Jefe de oficina','Control','joseivan.limones@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('CG422','Martos Iglesias Tania Belinda','Jefe de oficina','Administracin','tania.martos@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0GMﾠ','Mora Dominguez Marco Antonioﾠ','Jefe de departamento','Civil','antonio.mora01@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9AB2Y','Morales Prez Jess','Superintendente','Superintendencia','jesus.morales@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('CG406ﾠ','Mota Velazco Estebanﾠ','Jefe de oficina','Comunicaciones','esteban.mota@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B9N1','Nevarez Guerra Martn Ricardo','Jefe de departamento','Comunicaciones','marin.nevarez@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0N9','Olmos Medina Sergio Ivn','Jefe de oficina','Subestaciones','sergio.olmos@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('CG436ﾠ','Ortiz Alvarado Carlos  Jaimeﾠ','Jefe de oficina','Civil','carlos.ortiz09@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9A2KY','Quintana Avena Jos Carlos','Jefe de departamento','Control','carlos.quintana@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0NBﾠ','Riestra caraveo Erwinﾠ','Jefe de oficina','Lineas','erwin.riestra@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0L2ﾠ','Ruiz de la O Castuloﾠ','Jefe de departamento','Subestaciones','castulo.ruiz@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('J025R','Sanchez Daz Luis Ever','Jefe de oficina','Control','luis.sanchez28@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0JL','Sols Cardoza Vctor Israel','Jefe de departamento','Control de Gestin e informtica','victor.solis@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0RF','Vargas Castaeda Julian','Administrador','Administracin','julian.vargas@cfe.gob.mx');
+INSERT INTO employees(rpe,name,position,speciality,email) VALUES ('9B0CM','Zamarripa Madrid Mario Alberto','Jefe de departamento','Operacin y Mantto. Sector Cuauhtemoc','mario.zamarripa@cfe.gob.mx');
